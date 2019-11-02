@@ -3,4 +3,4 @@ Hackathon 2019
 
 
 
-https://www.youtube.com/watch?v=UmljXZIypDc
+https://www.dev2qa.com/how-to-make-a-website-with-python-and-django/
